@@ -1,0 +1,50 @@
+Day 4
+
+(1)What is the difference between a regular function and an arrow function?
+(A)In regular function, arguments will give you list of parameter passed in function, In arrow function arguments is not defined
+
+(2) What is a React Component?
+(A) Components are independent and reusable bits of code
+
+(3) How do you make a React functional component?
+(A) We can create a functional component to React by writing a JavaScript function
+
+(4) What is the difference between a pure JavaScript function and a functional component?
+(A)The clear difference is the syntax. Just like in their names, a functional component is just a plain JavaScript function that returns JSX.
+
+(5)How small is a React component?
+(A)Each component is usually compact (100–200 lines), a size which is easy for other developers to understand and modify.
+
+(6)Can we make a button or input field component?
+(A)Yes we can make a button or input field a component
+
+Day 5
+(1)What is props in a React component ?
+(A)Props is Parameters passed into React Component
+
+(2)How do you access props in a React component ?
+(A)React props can be accessed as an object or destructured
+If you have a lot of props that you're passing down to your component, it may be best to include them on the entire props object and access them by saying props. propName
+
+(3)What data types can we pass as props to components ?
+(A) We can pass objects, arrays, and functions.
+
+(4)What is a propTypes?
+(A)PropTypes are simply a mechanism that ensures that the passed value is of the correct datatype
+
+(5)What is a default propTypes?
+(A)Default props can be used to define any props that you want to be set for a component, whether or not a value is actually passed in from the parent component.
+
+
+I've learned how to write components and what are components and how they can be used in React and 
+what are the benfits of having components
+
+I've Learned how react Props are passed from one component to another component, 
+what are props and default Props and what are data types that can be passed as Props
+
+
+on GIT and GITHub
+
+By Reading Day 1 and Day 2 I've Learned how to add files and remove files on Git 
+I've understood Things such as Push and Pull in GIThub, I've Learned about different stages of Pushing files
+into Git

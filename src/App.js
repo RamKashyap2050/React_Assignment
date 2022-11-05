@@ -1,23 +1,18 @@
+/* eslint-disable react/jsx-pascal-case */
 import logo from './logo.svg';
 import './App.css';
+import Sectiontwo_qone from './components/sectiontwo_qone';
+import Sectiontwo_qtwo from './components/sectiontwo_qtwo';
+import Sectionthree_qone from './components/sectionthree_qone';
+import User_card from './components/user_card';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Sectiontwo_qone /><br />
+     <Sectiontwo_qtwo /><br />
+     <Sectionthree_qone /><br />
+     <User_card />
     </div>
   );
 }

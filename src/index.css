@@ -11,3 +11,76 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.container{
+  background-color: whitesmoke;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+.sectiontwo_oneimg{
+  padding: 20px;
+}
+.containerinp{
+  padding: 10px;
+  
+}
+.disp{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+input{
+  border-radius: 4px;
+  padding: 8px;
+
+}
+button{
+  border-radius: 4px;
+  padding: 8px;
+}
+.containerbtn{
+  width: 180px;
+  background-color: rgb(213, 57, 57);
+  color: white;
+}
+
+
+.sthree{
+  max-width: 116vh;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
+
+.sthreespn{
+  padding: 20px;
+border-radius: 10px;
+}
+
+.card{
+  max-width: 200px;
+
+}
+.proimg{
+  width: 150px;
+	margin-top: 20px;
+	border-radius: 50%;
+}
+.sthreetwo{
+  background-color: whitesmoke;
+  max-width: 800px;
+  padding: 20px;
+  margin: auto; 
+}
+.usercardskills{
+  padding: 6px;
+  float: left;
+}
+.usercardbtn{
+  background-color: #4FFFB0;
+  border-radius: 10px;
+}
+.usercardbtn:hover{
+  background-color: black;
+  color: white;
+}
